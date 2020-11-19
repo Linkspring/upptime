@@ -5,15 +5,15 @@
     "slug": "linkspring-app",
     "status": "up",
     "uptime": "100.00",
-    "time": 177
+    "time": 347
   },
   {
     "name": "Linkspring CDN",
-    "url": "https://cdn.lksg.me/",
+    "url": "https://cdn.lksg.me/static/cache_manifest.json",
     "slug": "linkspring-cdn",
-    "status": "down",
-    "uptime": "2.80",
-    "time": 90
+    "status": "up",
+    "uptime": "100.00",
+    "time": 96
   },
   {
     "name": "Freshdesk",
@@ -21,14 +21,6 @@
     "slug": "freshdesk",
     "status": "up",
     "uptime": "100.00",
-    "time": 205
-  },
-  {
-    "name": "Stripe API",
-    "url": "https://api.stripe.com",
-    "slug": "stripe-api",
-    "status": "down",
-    "uptime": "5.62",
-    "time": 78
+    "time": 189
   }
 ]
