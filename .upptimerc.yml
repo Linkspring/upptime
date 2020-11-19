@@ -7,11 +7,9 @@ sites:
   - name: Linkspring App
     url: https://lksg.me
   - name: Linkspring CDN
-    url: https://cdn.lksg.me/
+    url: https://cdn.lksg.me/static/cache_manifest.json
   - name: Freshdesk
     url: https://linkspring.freshdesk.com/
-  - name: Stripe API
-    url: https://api.stripe.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
