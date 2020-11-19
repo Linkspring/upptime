@@ -12,7 +12,7 @@
     "url": "https://cdn.lksg.me/",
     "slug": "linkspring-cdn",
     "status": "down",
-    "uptime": "5.32",
+    "uptime": "2.80",
     "time": 90
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://api.stripe.com",
     "slug": "stripe-api",
     "status": "down",
-    "uptime": "12.14",
+    "uptime": "5.62",
     "time": 78
   }
 ]
