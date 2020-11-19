@@ -1,7 +1,7 @@
-- url: https://cdn.lksg.me/
-- status: down
-- code: 403
-- responseTime: 90
-- lastUpdated: 2020-11-19T06:24:10.208Z
+- url: https://cdn.lksg.me/static/cache_manifest.json
+- status: up
+- code: 200
+- responseTime: 102
+- lastUpdated: 2020-11-19T06:27:57.510Z
 - startTime: 2020-11-19T06:24:10.090Z
 - generator: Upptime <https://github.com/upptime/upptime>
