@@ -4,17 +4,23 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Linkspring
+  - name: Linkspring App
     url: https://lksg.me
+  - name: Linkspring CDN
+    url: https://cdn.lksg.me/
+  - name: Freshdesk
+    url: https://linkspring.freshdesk.com/
+  - name: Stripe API
+    url: https://api.stripe.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.lksg.me
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://cdn.lksg.me/static/img/logo/logo_shape.svg
+  logoUrl: https://cdn.lksg.me/static/img/favicon/android-chrome-192x192.png
   name: Linkspring Status
-  introTitle: "Real-time status of Linkspring"
+  introTitle: ""
   introMessage: ""
   navbar:
     - title: Status
