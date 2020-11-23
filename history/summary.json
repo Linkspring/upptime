@@ -4,23 +4,23 @@
     "url": "https://lksg.me",
     "slug": "linkspring-app",
     "status": "up",
-    "uptime": "100.00",
-    "time": 421
+    "uptime": "100.00%",
+    "time": 433
   },
   {
     "name": "Linkspring CDN",
     "url": "https://cdn.lksg.me/static/cache_manifest.json",
     "slug": "linkspring-cdn",
     "status": "up",
-    "uptime": "100.00",
-    "time": 92
+    "uptime": "100.00%",
+    "time": 97
   },
   {
     "name": "Freshdesk",
     "url": "https://linkspring.freshdesk.com/",
     "slug": "freshdesk",
     "status": "up",
-    "uptime": "100.00",
-    "time": 207
+    "uptime": "100.00%",
+    "time": 216
   }
 ]
