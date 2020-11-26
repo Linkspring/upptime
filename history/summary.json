@@ -5,7 +5,7 @@
     "slug": "linkspring-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 408
+    "time": 769
   },
   {
     "name": "Linkspring CDN",
@@ -13,7 +13,7 @@
     "slug": "linkspring-cdn",
     "status": "up",
     "uptime": "100.00%",
-    "time": 89
+    "time": 94
   },
   {
     "name": "Freshdesk",
@@ -21,6 +21,6 @@
     "slug": "freshdesk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 222
+    "time": 238
   }
 ]
