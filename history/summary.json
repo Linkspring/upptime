@@ -5,7 +5,15 @@
     "slug": "linkspring-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 602
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 593,
+    "timeDay": 453,
+    "timeWeek": 366,
+    "timeMonth": 593,
+    "timeYear": 593
   },
   {
     "name": "Linkspring CDN",
@@ -13,7 +21,15 @@
     "slug": "linkspring-cdn",
     "status": "up",
     "uptime": "100.00%",
-    "time": 96
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 96,
+    "timeDay": 74,
+    "timeWeek": 97,
+    "timeMonth": 96,
+    "timeYear": 96
   },
   {
     "name": "Freshdesk",
@@ -21,6 +37,14 @@
     "slug": "freshdesk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 229
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 230,
+    "timeDay": 229,
+    "timeWeek": 218,
+    "timeMonth": 230,
+    "timeYear": 230
   }
 ]
