@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 232,
-    "timeWeek": 359,
-    "timeMonth": 572,
-    "timeYear": 572
+    "time": 565,
+    "timeDay": 445,
+    "timeWeek": 401,
+    "timeMonth": 565,
+    "timeYear": 565
   },
   {
     "name": "Linkspring CDN",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 147,
-    "timeWeek": 107,
-    "timeMonth": 99,
-    "timeYear": 99
+    "time": 100,
+    "timeDay": 124,
+    "timeWeek": 115,
+    "timeMonth": 100,
+    "timeYear": 100
   },
   {
     "name": "Freshdesk",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 237,
-    "timeWeek": 224,
-    "timeMonth": 230,
-    "timeYear": 230
+    "time": 229,
+    "timeDay": 215,
+    "timeWeek": 222,
+    "timeMonth": 229,
+    "timeYear": 229
   }
 ]
