@@ -2,6 +2,7 @@
   {
     "name": "Linkspring App",
     "url": "https://lksg.me",
+    "icon": "https://favicons.githubusercontent.com/lksg.me",
     "slug": "linkspring-app",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 473,
-    "timeWeek": 441,
-    "timeMonth": 560,
-    "timeYear": 560
+    "time": 555,
+    "timeDay": 453,
+    "timeWeek": 419,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Linkspring CDN",
     "url": "https://cdn.lksg.me/static/cache_manifest.json",
+    "icon": "https://favicons.githubusercontent.com/cdn.lksg.me",
     "slug": "linkspring-cdn",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 73,
-    "timeWeek": 108,
-    "timeMonth": 99,
-    "timeYear": 99
+    "time": 97,
+    "timeDay": 68,
+    "timeWeek": 93,
+    "timeMonth": 97,
+    "timeYear": 97,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Freshdesk",
     "url": "https://linkspring.freshdesk.com/",
+    "icon": "https://favicons.githubusercontent.com/linkspring.freshdesk.com",
     "slug": "freshdesk",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 277,
-    "timeWeek": 235,
-    "timeMonth": 232,
-    "timeYear": 232
+    "time": 231,
+    "timeDay": 217,
+    "timeWeek": 215,
+    "timeMonth": 231,
+    "timeYear": 231,
+    "dailyMinutesDown": {}
   }
 ]
