@@ -40,19 +40,19 @@
     "url": "https://linkspring.freshdesk.com/",
     "icon": "https://favicons.githubusercontent.com/linkspring.freshdesk.com",
     "slug": "freshdesk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 481,
-    "timeWeek": 266,
-    "timeMonth": 249,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 243,
+    "timeDay": 388,
+    "timeWeek": 259,
+    "timeMonth": 247,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2021-02-22": 0
+      "2021-02-22": 20
     }
   }
 ]
