@@ -5,17 +5,20 @@
     "icon": "https://favicons.githubusercontent.com/lksg.me",
     "slug": "linkspring-app",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1583,
-    "timeDay": 4147,
-    "timeWeek": 2285,
-    "timeMonth": 2231,
-    "timeYear": 1583,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1599,
+    "timeDay": 3745,
+    "timeWeek": 2278,
+    "timeMonth": 2282,
+    "timeYear": 1599,
+    "dailyMinutesDown": {
+      "2021-03-18": 19,
+      "2021-02-22": 20
+    }
   },
   {
     "name": "Linkspring CDN",
@@ -29,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 85,
-    "timeWeek": 80,
+    "timeDay": 80,
+    "timeWeek": 84,
     "timeMonth": 89,
     "timeYear": 100,
     "dailyMinutesDown": {}
@@ -46,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 244,
-    "timeDay": 200,
-    "timeWeek": 247,
-    "timeMonth": 243,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 197,
+    "timeWeek": 244,
+    "timeMonth": 242,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2021-03-18": 19,
       "2021-02-22": 20
